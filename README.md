@@ -1,2 +1,2 @@
 # GANs_TF2.x
-Implementations of GANs [EBGAN, BEGAN, DRAGAN] in Tensorflow 2.x at Google Colaboratory
+Easy Tensorflow 2.x Implementations of GANs [EBGAN, BEGAN, DRAGAN] in  at Google Colaboratory
